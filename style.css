@@ -1,7 +1,11 @@
-h1 {
-    font-size: 70px;
-    color:mediumpurple;
+body{
+    background-color: antiquewhite;
+
 }
+h1 {color: plum;
+    font-size: 70px;
+    }
+h2 {color: plum}
 {
 font-style: italic;
 font-size: 40px;
