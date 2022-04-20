@@ -1,21 +1,25 @@
 body{
     background-color: antiquewhite;
-
+    text-align: center;
 }
 h1 {color: plum;
     font-size: 70px;
     }
 h2 {color: plum}
 {
-font-style: italic;
-font-size: 40px;
-    color:darksalmon;
+
 
 }
 .quote { color: mediumpurple;
-         font-size:20px;}
+         font-size:30px;}
 
 table, th, td { table-layout: fixed;
     border: 2px solid grey;
     border-collapse: collapse;
 width:30%;}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
