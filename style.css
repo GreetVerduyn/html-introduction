@@ -4,7 +4,14 @@ h1 {
 }
 {
 font-style: italic;
-font-size: 35px;
+font-size: 40px;
     color:darksalmon;
 
 }
+.quote { color: mediumpurple;
+         font-size:20px;}
+
+table, th, td { table-layout: fixed;
+    border: 2px solid grey;
+    border-collapse: collapse;
+width:30%;}
